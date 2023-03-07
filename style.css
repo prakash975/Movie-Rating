@@ -1,0 +1,76 @@
+.bg{
+    background-color: rgba(0, 0, 0,0.9);
+
+
+    
+}
+.nav-item a{
+    color: white;
+}
+svg{
+    color: white;
+}
+.nav-item a:hover{
+    color:red;
+    text-decoration: underline;
+    font-weight: bold;
+}
+svg:hover{
+    color: red;
+    padding: 1px;
+    font-weight: bold;
+}
+
+.carousel-caption{
+    text-align: left;
+}
+h2{
+    color: red;
+}
+.btn{
+    gap: 10px;
+}
+
+.img{
+    padding: 20px 5px;
+    width: 200px;
+    height: 300px;
+    
+}
+hr{
+    width: 2000px;
+
+}
+ul li{
+    color: white;
+    padding: 5px;
+}
+ul li:hover{
+    color: lawngreen;
+    text-decoration: underline;
+    font-size:large;
+    cursor: pointer;
+}
+.head{
+    color: red;
+    padding: 5px;
+}
+img:hover{
+   transform: scale(1.1);
+   cursor: pointer;
+
+}
+img{
+    transition: transform 3s;
+}
+.link{
+    color: white;
+
+    text-decoration: none;
+}
+.link:hover{
+
+    color: blue;
+    text-decoration: underline;
+    
+}

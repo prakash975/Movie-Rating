@@ -1,0 +1,31 @@
+.ad{
+    background-color: black;
+    padding: 10px;
+}
+.bt{
+  padding: 20px;
+}
+
+.img{
+    padding: 10px;
+}
+.frame{
+    padding: 10px;
+    gap: 20px;
+}
+
+.photo{
+   
+   padding-left: 10px;
+   
+}
+
+.head{
+    padding: 20px;
+}
+
+.rounded-circle{
+    width: 150px;
+    height: 150px;
+  
+}

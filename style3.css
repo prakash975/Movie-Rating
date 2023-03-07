@@ -1,0 +1,36 @@
+.body{
+    background-color: black;
+}
+.img{
+    position: absolute;
+    padding-bottom: 200px;
+}
+
+.head{
+    position: relative;
+    border: 2px solid white;
+    color: white;
+    top:30px;
+    left: 600px;
+    width: fit-content;
+
+}
+.para{
+    padding-top: 200px;
+    padding-bottom: 20px;
+}
+
+.vl{
+    border-left:4px solid yellow ;
+    height: 200px;
+}
+
+.form{
+    margin: 10px;
+    padding: 10px;
+   
+}
+
+.para1{
+    font-family:cursive;
+}
